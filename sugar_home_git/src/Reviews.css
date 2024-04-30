@@ -1,0 +1,44 @@
+.img2-container{
+    margin-top: 80px;
+    position: relative;
+}
+
+
+.reviews_heading{
+    top: 327%; /* Positions the heading vertically in the center */
+    left: 55%; /* Positions the heading horizontally in the center */
+    transform: translate(-50%, -50%); /* Adjusts for its own height and width */
+    font-family: Blueberry Regular;
+    color: #E4CAAC;
+    font-size: 80px;
+    position: absolute;
+}
+
+.reviews_heading_1{
+    top: 339%; /* Positions the heading vertically in the center */
+    left: 37%; /* Positions the heading horizontally in the center */
+    transform: translate(-50%, -50%); /* Adjusts for its own height and width */
+    font-family: Blueberry Regular;
+    margin-left: 200px;
+    color: #DD0808;
+    font-size: 50px;
+    position:absolute;
+}
+
+.cardie_1 img {
+    height: 350px;
+    width: 350px;
+    border-radius: 1000px;
+  }
+  
+  .cardie_2 img {
+    height: 475px;
+    width: 475px;
+    border-radius: 1000px;
+  }
+
+  .cardie_3 img {
+    height: 375px;
+    width: 375px;
+    border-radius: 1000px;
+  }
