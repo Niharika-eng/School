@@ -6,10 +6,10 @@ import Sprinkle3 from './assets/Sprinkles1 (3).svg'
 
 
 
-//Hi Neeha
+
 export default function About_Us(){
     return(
-        <div>
+        <div id="about">
                <div class="img-container">
                 <div class="image-wrapper">
                     <img src={Sprinkle2}/>

@@ -6,7 +6,7 @@ import Sprinkle3 from './assets/Sprinkles1 (3).svg';
 
 export default function Peripheral_Menu() {
   return (
-    <div>
+    <div id='pmenu'>
       <div class="img1-container">
         <div class="image-wrapper">
           <img src={Sprinkle2} />

@@ -6,7 +6,7 @@ import Sprinkle3 from './assets/Sprinkles1 (3).svg';
 
 export default function Reviews() {
   return (
-    <div>
+    <div id='review'>
       <div class="img2-container">
         <div class="image-wrapper">
           <img src={Sprinkle2} />

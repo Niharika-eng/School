@@ -4,7 +4,7 @@ import './Hero_Page.css';
 
 export default function Hero_Page(){
     return(
-        <div>
+        <div id='home'>
             <div class="image-container">
                 <img src="src\assets\HeroImage.jpg" class="Myimage"/>
                 <div className="image-overlay"></div>

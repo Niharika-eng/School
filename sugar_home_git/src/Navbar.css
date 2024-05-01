@@ -25,4 +25,13 @@
     fill: #ffff;  /* Replace with your hex code */
   }
 
+  .headroom--pinned {
+    position: fixed;
+    transform: translateY(0%);
+  }
+
+  .headroom--unpinned {
+    position: fixed;
+    transform: translateY(-100%);
+  }
   

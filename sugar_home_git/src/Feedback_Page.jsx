@@ -4,7 +4,7 @@ import './Feedback_Page.css';
 
 export default function Feedback_Page() {
   return (
-    <div>
+    <div id='feedback'>
       <div class="card cardf text-center mb-3">
         <div class="card-body cardf-body">
             <h5 class="cardf-title1">Drop a </h5>
