@@ -35,6 +35,15 @@
     color: white;
     font-family: 'Blueberry Regular', sans-serif; /* Include the font family */
     font-size: 120px; /* Example font size adjustment */
-    text-align: center; /* Ensures horizontal centering */
     z-index: 1;
+  }
+
+  .sub-heading{
+    font-family: Lovelo Black;
+    color: #ffff;
+    z-index: 1;
+    margin-top:185px;
+    margin-left: -290px;
+    font-size:15px;
+
   }

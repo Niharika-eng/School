@@ -6,9 +6,10 @@ export default function Hero_Page(){
     return(
         <div>
             <div class="image-container">
-            <img src="src\assets\HeroImage.jpg" class="Myimage"/>
-            <div className="image-overlay"></div>
-            <h1 class="centered-heading">Sugar</h1>
+                <img src="src\assets\HeroImage.jpg" class="Myimage"/>
+                <div className="image-overlay"></div>
+                    <h1 class="centered-heading">Sugar</h1>
+                    <h3 class="sub-heading">Thickshakes | Coffee & More</h3>
             </div>
         </div>
     )

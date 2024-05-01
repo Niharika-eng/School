@@ -9,9 +9,10 @@ import Peripheral_Menu from './Peripheral_Menu'
 import Reviews from './Reviews'
 import Menu from './Menu.jsx'
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import Feedback_Page from './Feedback_Page.jsx'
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import { Link } from 'react-router-dom';
+
 
 const App = () => {
     return (
@@ -21,10 +22,9 @@ const App = () => {
             <About_Us />
             <Peripheral_Menu />
             <Reviews />
-            <Menu />
+            <Feedback_Page/>
         </div>
     )
 }
-//hi Neeharika to the new repo
 export default App
 

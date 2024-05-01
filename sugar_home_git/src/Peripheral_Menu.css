@@ -32,14 +32,16 @@
     /* Optional: Add margin or padding for spacing */
   }
 
-.my-card-size{
+.card{
+  border-width: 5px;
+  border-radius: 20px;
   width: 400px;
-   /* Hide overflowing content */
 }
 
 .my-card-size img {
     width: 400px; /* Stretch image to fill card width */
     height: 200px; /* Stretch image to fill card height */
+    border-radius: 20px;
     object-fit: cover; /* Crop image to fit card dimensions */
     overflow: hidden;
   }
